@@ -41,7 +41,7 @@ Here is a Screenshot of the Themes(Light and Dark)
 
 
 
-## Technologies Used: ☕️ 🐍 ⚛️
+## Technologies Used: ⚛️
 This Project was Bootsrapped with <img width="30px" height="30px" alt="Vite Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png"/> <a href ="https://vitejs.dev/guide/">VITE</a> + <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png"><a href="https://react.dev/"> REACT</a>  
 
 I used `HTML` `CSS` `REACT.JS` in this Project
