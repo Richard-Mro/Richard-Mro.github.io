@@ -34,9 +34,11 @@ This Project is made up of a Custom Counter Hook with SetValue, Reset, Increment
 ## Screenshots 📷
 Here is a Screenshot of the Themes(Light and Dark)
 ### Light Mode
-![alt Screens](https://github.com/Richard-Mro/React-Counter-Project/assets/104454092/17be2d0b-e876-4e29-b15f-5f19c572355f)
+![alt Screens](https://github.com/Richard-Mro/Richard-Mro.github.io/assets/104454092/d3fe627a-7d10-4546-8d2f-e9ddfdb9af0a)
+
 ### Dark Mode
-![alt Screens2](https://github.com/Richard-Mro/React-Counter-Project/assets/104454092/d5543acf-2f80-4b43-b85f-97d8fc696ae6)
+![alt Screens2](https://github.com/Richard-Mro/Richard-Mro.github.io/assets/104454092/47c1e248-39c2-423a-9175-cc28e5dcc7c4)
+
 
 
 ## Technologies Used: ☕️ 🐍 ⚛️
