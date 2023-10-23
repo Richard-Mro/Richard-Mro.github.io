@@ -34,10 +34,10 @@ This Project is made up of a Custom Counter Hook with SetValue, Reset, Increment
 ## Screenshots 📷
 Here is a Screenshot of the Themes(Light and Dark)
 ### Light Mode
-![alt Screens](https://github.com/Richard-Mro/Richard-Mro.github.io/assets/104454092/d3fe627a-7d10-4546-8d2f-e9ddfdb9af0a)
+![alt Screens](https://github.com/Richard-Mro/Richard-Mro.github.io/assets/104454092/65821bd1-9296-4edb-9e9d-d2209620be30)
 
 ### Dark Mode
-![alt Screens2](https://github.com/Richard-Mro/Richard-Mro.github.io/assets/104454092/47c1e248-39c2-423a-9175-cc28e5dcc7c4)
+![alt Screens2](https://github.com/Richard-Mro/Richard-Mro.github.io/assets/104454092/c1a2d7e9-d796-46a3-af9c-f56173ff85c2)
 
 
 
